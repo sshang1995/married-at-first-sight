@@ -19,3 +19,5 @@ The data was gathered from Wikipedia. It contains information about the couples,
 5. How many couples still married?
 
 6. Does age difference influence the realtionship?
+
+7. Did experts make a right decision?
